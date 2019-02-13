@@ -3,7 +3,7 @@ Predicting Apple (AAPL) revenue for 2018 with machine learning
 
 [aapl-quarterly.ipynb](https://github.com/apadkavyrava/aapl-revenue/blob/master/aapl_quarterly.ipynb)
 
-The NYSE dataset seemed not enough for good prediction:
+The original dataset seemed not enough for good prediction:
 - it only covers 2012-2016, so we're missing 2 years of data
 - it is based on annual data, so there are 5 or less data points per company
 
@@ -19,5 +19,5 @@ Multi-company model notebook: [aapl-multicompany.ipynb](https://github.com/apadk
 
 ------
 
-Original dataset: [NYSE](https://www.kaggle.com/dgawlik/nyse)
-Nasdaq dataset obtained from [gurufocus.com](https://www.gurufocus.com/)
+- Original dataset: [NYSE](https://www.kaggle.com/dgawlik/nyse)
+- Nasdaq dataset obtained from [gurufocus.com](https://www.gurufocus.com/)
